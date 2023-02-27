@@ -8,7 +8,10 @@ For running the project, firstly install the libraries required:
 ```sh
 pip install -r libraries.txt
 ```
-
+Repl.it Link :
+```
+https://replit.com/@DeepankarVarma/Google-Calendar-Integration-Django-Rest-API
+```
 - Endpoint:
 ```
 /rest/v1/calendar/init/ -> GoogleCalendarInitView()
